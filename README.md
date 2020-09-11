@@ -1,1 +1,2 @@
-# cs320_lab2
+# The Succulents
+We are plants
